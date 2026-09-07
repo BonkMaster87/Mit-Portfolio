@@ -30,6 +30,7 @@ og gøre det nemmere at overvåge en computer.
 $cpu = Get-CimInstance Win32_Processor
 
 Write-Host "CPU: $($cpu.Name)"
+```
 
 ### Del 6 — Hvad vil du lære?
 
