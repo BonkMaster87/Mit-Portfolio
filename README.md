@@ -31,7 +31,7 @@ $cpu = Get-CimInstance Win32_Processor
 Write-Host "CPU: $($cpu.Name)"
 
 ### Del 6 — Hvad vil du lære?
-```markdown
+
 ## Hvad vil jeg gerne lære mere om?
 
 1. Linux
