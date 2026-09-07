@@ -25,6 +25,7 @@ LINX TOOL er et PowerShell-projekt, som jeg selv arbejder på.
 Formålet er at samle forskellige systemoplysninger
 og gøre det nemmere at overvåge en computer.
 
+```text
 ```powershell
 $cpu = Get-CimInstance Win32_Processor
 
