@@ -53,5 +53,6 @@ Write-Host "CPU: $($cpu.Name)"
 - [ ] Arbejde mere med Linux
 - [ ] Lære Python
 
+## Link
 
 
